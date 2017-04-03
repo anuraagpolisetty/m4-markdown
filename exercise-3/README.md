@@ -10,9 +10,9 @@ A _nested list_ of information about the command (i.e., things that it does, or 
 
 See `complete` branch for answers.
 
-'git commit -m "_Description_"'
+`git commit -m "_Description_"`
 
-The command 'git commit -m "Updated description of learned command"' commits this README.md file to the repository and includes a message.
+The command `git commit -m "Updated description of learned command"` commits this README.md file to the repository and includes a message.
 
   *Commits changes in all files from the staging area to the repository
   *Includes a message with "-m"
