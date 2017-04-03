@@ -14,7 +14,7 @@ See `complete` branch for answers.
 
 The command `git commit -m "Updated description of learned command"` commits this README.md file to the repository and includes a message.
 
-  *Commits changes in all files from the staging area to the repository
-  *Includes a message with "-m"
-    *Describes changes being made
-  *Creates a snapshot you can return to
+  * Commits changes in all files from the staging area to the repository
+  * Includes a message with "-m"
+    * Describes changes being made
+  * Creates a snapshot you can return to
